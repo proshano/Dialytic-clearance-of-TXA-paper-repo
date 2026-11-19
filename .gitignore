@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rprofile
+.Rproj.user/
+.DS_Store
+renv/
+
+# Study inputs and output generated from them
+data/*
+!data/README.md
+output/*
+!output/session_info.txt
